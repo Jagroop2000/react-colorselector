@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-// Props that user can pass alter 
+// Props that user can pass alter  
 interface Props {
   image: string;
   width?: number;
