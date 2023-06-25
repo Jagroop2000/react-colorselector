@@ -1,8 +1,12 @@
 {
-  "name": "react-colorselector",
+  "name": "react-colourselector",
   "version": "1.0.0",
   "type": "module",
   "description": "React component to extract colors from images for design inspiration and customization, easy to integrate with npm installation.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagroop2000/react-colorselector.git"
+  },
   "keywords": [
     "React",
     "Component",
